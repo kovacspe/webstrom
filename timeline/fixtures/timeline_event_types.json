@@ -1,0 +1,73 @@
+[
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 0,
+        "fields": {
+            "name": "2% z dane pre STROM",
+            "default_text": "Darujte 2% STROMu",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 1,
+        "fields": {
+            "name": "Termín série",
+            "default_text": "Termín série <<SEMINAR>>",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 2,
+        "fields": {
+            "name": "Registrácia",
+            "default_text": "Registrujte sa na <<Sutaz>>",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 3,
+        "fields": {
+            "name": "Séria uzavretá",
+            "default_text": "",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 4,
+        "fields": {
+            "name": "Pozvánka na aktivitu",
+            "default_text": "",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 5,
+        "fields": {
+            "name": "Termín aktivity",
+            "default_text": "",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 6,
+        "fields": {
+            "name": "Výsledky aktivity",
+            "default_text": "",
+            "activity": 1
+        }
+    },
+    {
+        "model": "timeline.TimelineEventType",
+        "pk": 7,
+        "fields": {
+            "name": "Nezaradený oznam",
+            "default_text": ""
+        }
+    }
+]
